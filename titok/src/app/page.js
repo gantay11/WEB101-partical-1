@@ -1,8 +1,8 @@
-import VideoFeed from' ../components/ui/Videofeed';
+import VideoFeed from "../components/ui/VideoFeed";
 
 export default function Home() {
   return (
-    <div className="py-4">
+    <div>
       <VideoFeed />
     </div>
   );
