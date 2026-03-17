@@ -19,6 +19,8 @@ Another important thing I learned was how to design user interfaces using Tailwi
 ## Challenges Faced 
  It was difficult at the beginning to understand how functions like register, handleSubmit, and validation rules operate in form handling and moreover sometime even my code was right but its showing some error and even npm run dev.
 ![alt text](<Screenshot 2026-03-15 154840.png>)
+![alt text](image.png)
+![alt text](<Screenshot 2026-03-17 142834.png>)
 ### How I Solved the Problems
 
 I solved these problems by:
